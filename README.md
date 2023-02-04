@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm a software engineering student, a junior data scientist, and a Python developer with 2+ years of experience in project work and freelance jobs<br>👯 I’m looking to collaborate on new data science projects and contribute to open source projects and packges<br>🤝 I’m looking for help with finding my end study internship as a data science intern <br>🌱 I’m currently learning more about Data Engineering <br>💬 Ask me anything about Python!
+🔭 I'm a software engineering student, a junior data scientist, and a Python developer with 2+ years of experience in project work and freelance jobs<br>👯 I’m looking to collaborate on new data science projects and contribute to open source projects and packges<br>🤝 I’m looking for help with finding my end of studies internship as a data science intern <br>🌱 I’m currently learning more about Data Engineering <br>💬 Ask me anything about Python!
 
 
 ## 🌐 Socials:
